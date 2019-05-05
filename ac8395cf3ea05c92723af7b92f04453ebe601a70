@@ -1,0 +1,1 @@
+{"jobID":"ea8851e1-472d-25fd-2fc3-3b15ab159cb7","spec":{"type":"policy","cause":{"Message":"","User":"duan pan \u003cfullstacksre@gmail.com\u003e"},"spec":{"sock-shop:deployment/front-end":{"add":null,"remove":{"automated":"true"}}}},"result":null}
