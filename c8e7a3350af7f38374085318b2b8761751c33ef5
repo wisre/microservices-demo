@@ -1,0 +1,1 @@
+{"jobID":"1624c529-8ece-6c20-effc-130196c75024","spec":{"type":"policy","cause":{"Message":"","User":"duan pan \u003cfullstacksre@gmail.com\u003e"},"spec":{"sock-shop:deployment/front-end":{"add":{"automated":"true"},"remove":null}}},"result":null}
