@@ -206,8 +206,6 @@ kind: Deployment
 metadata:
   name: front-end
   namespace: sock-shop
-  annotations:
-    flux.weave.works/automated: 'true'
 spec:
   replicas: 1
   template:
